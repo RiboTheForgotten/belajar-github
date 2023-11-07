@@ -1,0 +1,2 @@
+1.Buat Codingan baru
+2.Lalu coba run untuk melihat hasilnya
